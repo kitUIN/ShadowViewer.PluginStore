@@ -4,7 +4,7 @@
     "Description": "ShadowViewer哔咔漫画插件",
     "Authors": "kitUIN",
     "WebUri": "https://github.com/kitUIN/ShadowViewer.Plugin.Bika",
-    "Logo": "ms-plugin://ShadowViewer.Plugin.Bika/Assets/Icons/logo.png",
+    "Logo": "https://raw.githubusercontent.com/kitUIN/ShadowViewer.Plugin.Bika/refs/heads/master/ShadowViewer.Plugin.Bika/Assets/Icons/logo.png",
     "Id": "Bika",
     "Name": "哔咔漫画适配器",
     "Version": "0.3.0",
